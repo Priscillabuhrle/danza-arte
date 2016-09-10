@@ -1,0 +1,92 @@
+/* header */
+body{
+	font-family: "Montserrat";
+}
+.row{
+	max-width: 100%;
+	margin: 0;
+}
+/* header */
+.titulo{
+	text-align: center;
+	font-size: 25px;
+}
+.link{
+	text-decoration: none;
+	color: #D0CECE;
+	margin-right: 60px;
+}
+.nosotros{
+	margin-left: 440px;
+}
+/* 2 */
+.blogg{
+	margin-left:650px;
+}
+.blogh{
+	background-color: #D8D4D4;
+}
+.rojo{
+	width: 257px;
+	margin-left: 150px;
+}
+.rojodos{
+	background-color: #948E8E;
+	margin-right: 123px;
+	width: 60%;
+}
+.h{
+	color:#E1DCDC;
+	font-size: 13px;
+}
+.j{
+	width: 230px;
+	height:30px;
+	background-color: #2B3665;
+	border-radius: 5px;
+	padding-left: 85px;
+	padding-top: 5px;
+}
+.k{
+	text-decoration: none;
+	color: white;
+}
+.r{
+	font-size: 15px;
+}
+.gg{
+	height: 243px;
+}
+
+/* container formulario*/
+.pies{
+   background-image: url(../img/shoes_1.jpg) ;
+   height: 450px;
+}
+.contac{
+	color:#110977;
+	margin-left: 75px;
+}
+form{
+	width: 50%;
+	margin: auto;
+	background: rgba(0,0,0,0.2);
+	padding: 5px;
+	margin-top: 2px;
+	border-radius: 7px;
+}
+
+textarea, input {
+		width:100%;
+		margin-bottom: 2%;
+		padding: 3%;
+		box-sizing: border-box;
+		font-size: 16px;
+	}
+/* container formulario*/
+.finalpag .footerr{
+	background-color: #110977;
+	padding: 20px 20px;
+	color: white;
+	font-size: 15px;
+}

@@ -1,0 +1,175 @@
+/* Inserta tu codigo aqui */
+body{
+	font-family: "Montserrat";
+}
+.row{
+	max-width: 100%;
+	margin: 0;
+}
+/* header */
+.titulo{
+	text-align: center;
+	font-size: 25px;
+}
+.link{
+	text-decoration: none;
+	color: #D0CECE;
+	margin-right: 60px;
+}
+.nosotros{
+	margin-left: 440px;
+}
+/* container 1 */
+
+.containeruno{
+	background-image: url(../img/dance_1.jpg);
+	height: 480px;
+	color: white;
+}
+.studio{
+    font-size: 60px;
+    font-weight: bold;
+}
+.textouno{
+	font-size: 18px;
+}
+/* boton */
+.boton{
+	background-color: #111331;
+	border-radius: 5px;
+	width: 120px;
+	height: 35px;
+	padding: 8px 20px;
+}
+.botona{
+	text-decoration:none;
+	color:white;
+}
+/* container 2 */
+.containerdos{
+	background-image: url(../img/textura_2.jpg);
+}
+.textodos{
+	text-align: center;
+	font-size: 22px;
+	font-weight: 600
+	color: #636060;
+}
+.tatu{
+	width: 150px;
+	margin-left: 590px;
+}
+/* boton ofertas clases*/
+.botonofertas{
+	width: 270px;
+	height: 50px;
+	background-color: #070F5F;
+	border-radius: 5px;
+	padding: 15px 70px;
+	margin-left: 535px;
+
+}
+.linkoferta{
+	text-decoration: none;
+	color: white;
+}
+/* container doble*/
+.doblefoto{
+	border:1px solid black;
+	width: 100%;
+	margin: 0;
+}
+
+.botoninstructores{
+	width: 400px;
+	height: 50px;
+	background-color: #070F5F;
+	padding: 15px 120px;
+	margin-left: 460px;
+	position: relative;
+	top: 370px;
+	color: yellow;
+}
+.nulo {
+	position: relative;
+	bottom: 400px;
+	text-decoration: none;
+	color: white;
+}
+.bo{
+	text-decoration: none;
+	color:yellow;
+}
+.dobles{
+	background-image: url(../img/instructor_4.jpg);
+	height: 420px;
+}
+.dobleses{
+	background-image: url(../img/profesor_9.jpg);
+	height: 420px;
+	}
+/* container 3*/
+.danzae{
+	text-align: center;
+	font-size: 40px;
+	padding: 30px 200px;
+}
+.danzar{
+	background-image: url(../img/textura_2.jpg);
+}
+/* container 4*/
+.cuatro{
+	background-color: #110977;
+}
+iframe{
+   margin-left: 90px;
+}
+.lorem{
+	color:white;
+	font-size: 15px;
+	margin-left: 40px;
+	margin-right: 60px;
+}
+.visit{
+	color: white;
+    margin-left: 40px;
+}
+.lista{
+	color:white;
+	font-size: 13px;
+}
+ul{
+	list-style: none;
+}
+/* container formulario*/
+.pies{
+   background-image: url(../img/shoes_1.jpg) ;
+   height: 450px;
+}
+.contac{
+	color:#110977;
+	margin-left: 75px;
+}
+form{
+	width: 50%;
+	margin: auto;
+	background: rgba(0,0,0,0.2);
+	padding: 5px;
+	margin-top: 2px;
+	border-radius: 7px;
+}
+
+textarea, input {
+		width:100%;
+		margin-bottom: 2%;
+		padding: 3%;
+		box-sizing: border-box;
+		font-size: 16px;
+	}
+/* container formulario*/
+.finalpag .footerr{
+	background-color: #110977;
+	padding: 20px 20px;
+	color: white;
+	font-size: 15px;
+}
