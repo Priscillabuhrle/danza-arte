@@ -29,10 +29,25 @@ body{
 .boxx{
 	width:350px;
 	height: 450px;
+	position: relative;
+	z-index: 1;
 }
 .bailesles{
 	background-color: #DAD5D5;
 }
+
+.chico{
+	position: absolute;
+	z-index: 5;
+	color:white;
+	width: 300px;
+	background: rgba(0,0,0,0.2);
+	text-align: center;
+	margin-top: 170px;
+	margin-left: 25px;
+}
+
+
 /* container formulario*/
 .pies{
    background-image: url(../img/shoes_1.jpg) ;
