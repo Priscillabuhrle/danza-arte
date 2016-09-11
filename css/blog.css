@@ -83,7 +83,11 @@ textarea, input {
 		box-sizing: border-box;
 		font-size: 16px;
 	}
-/* container formulario*/
+.color{
+		background-color: #110977;
+		color: white;
+	}
+/* final*/
 .finalpag .footerr{
 	background-color: #110977;
 	padding: 20px 20px;

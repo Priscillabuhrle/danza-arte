@@ -2,10 +2,7 @@
 body{
 	font-family: "Montserrat";
 }
-.row{
-	max-width: 100%;
-	margin: 0;
-}
+
 /* header */
 .titulo{
 	text-align: center;
@@ -17,83 +14,44 @@ body{
 	margin-right: 60px;
 }
 .nosotros{
-	margin-left: 440px;
+	margin-left: 370px;
 }
-/* dos */
-.fotito{
-	background-image: url(../img/dance_7.jpg);
-	height: 480px;
-	padding-top: 150px;
-	padding-left: 520px;
+/* 2 OFERTA DE CLASES */
+.ofertas{
+	margin-left: 580px;
+	font-size: 20px;
+	font-weight: 600;
 }
-.transp{
-    background: rgba(0,0,0,0.2);
-    padding: 20px;
-    width: 400px;
-}
-.nos{
-	color: white;
-	margin-left: 60px;
-}
-.nosdos{
-	color: white;
-}
-/* dos */
-.lineas{
-	background-image: url(../img/cubes.png);
-}
-.gris{
-	color: gray;
-	text-align: center;
-}
-.grisdos{
-	padding: 0 40px;
-	color: gray;
-	text-align: center;
-}
-.chico{
-	width: 22%;
-}
-.so{
-	margin-left: 200px;
-}
-.sol {
-	margin-left: 40px;
-}
-.soll{
-	margin-right: 180px;
-}
-/* tres instructores */
-.instructorestres{
-	text-align: center;
-}
+/* dos fotos de bailes */
 .boxx{
-	width: 250px;
-	height: 250px;
+	width:350px;
+	height: 450px;
+	margin-bottom: 20px;
+	position: relative;
+	z-index: 1;
 }
-.boxxx{
-	font-weight: 600
+
+.bailesles{
+	background-color: #DAD5D5;
 }
-.profes{
-	width: 21%;
+
+.chico{
+	position: absolute;
+	z-index: 5;
+	color:white;
+	width: 300px;
+	background: rgba(0,0,0,0.2);
+	text-align: center;
+	margin-top: 170px;
+	margin-left: 25px;
 }
-.lado{
-	margin-left: 110px;
-}
-.boxxxx{
-	color:gray;
-}
-/* cuatro frase */
-.fraseuni{
-	height:300px;
-	background-image: url(../img/cubes.png);
-	padding-top: 80px;
-}
-.frase{
-	font-size: 45px;
-	text-align: center; 
-}
+
+
 /* container formulario*/
+.agrandar{
+	max-width: 100%;
+	margin: 0;
+}
 .pies{
    background-image: url(../img/shoes_1.jpg) ;
    height: 450px;
@@ -118,7 +76,11 @@ textarea, input {
 		box-sizing: border-box;
 		font-size: 16px;
 	}
-/* container formulario*/
+	.color{
+		background-color: #110977;
+		color: white;
+	}
+/* final*/
 .finalpag .footerr{
 	background-color: #110977;
 	padding: 20px 20px;
